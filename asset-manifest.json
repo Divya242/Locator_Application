@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Locator_application/static/css/main.3cfe2649.css",
+    "main.js": "/Locator_application/static/js/main.41eac43c.js",
+    "static/js/787.a99f3601.chunk.js": "/Locator_application/static/js/787.a99f3601.chunk.js",
+    "index.html": "/Locator_application/index.html",
+    "main.3cfe2649.css.map": "/Locator_application/static/css/main.3cfe2649.css.map",
+    "main.41eac43c.js.map": "/Locator_application/static/js/main.41eac43c.js.map",
+    "787.a99f3601.chunk.js.map": "/Locator_application/static/js/787.a99f3601.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cfe2649.css",
+    "static/js/main.41eac43c.js"
+  ]
+}
