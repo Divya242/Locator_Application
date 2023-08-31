@@ -1,0 +1,84 @@
+* {
+  box-sizing: border-box;
+}
+.main-container {
+  background-color: rgb(158, 205, 196); 
+}
+
+.heading-container {
+  display: flex;
+  width: 100%;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  background-color: #8fb6d4;
+}
+
+.heading {
+  color: #ecef94;
+  font-style: italic;
+  padding: 0.5rem;
+}
+
+.earth-icon {
+  width:50px;
+  height:50px;
+  background-color: #8fb6d4;
+  padding-left: 1rem;
+}
+.leaflet-container {
+  display: flex;
+  width: 80%;
+  margin:auto;
+  height: 100vh;
+  border: 5px solid #e8ea86;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.dashboard-item {
+  display: flex;
+  align-items: center;
+  width: 55%;
+  padding: 1rem;
+  border: 3px solid #e8ea86;
+  border-radius: 10px;
+  margin: 1rem;
+  background-color: #e2eddc;
+}
+
+.avatar {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-right: 10px;
+}
+
+.avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.content {
+  flex: 1;
+  padding: 1rem;
+  background-color: #8fb6d4;
+  border-radius: 10px;
+  color: #e5e1cb;
+}
+
+h3 {
+  margin: 0;
+  font-size: 18px;
+}
+
+p {
+  margin: 5px 0;
+}
+
+.heading-entity {
+  color: #ecef94;
+  font-style: italic;
+  padding: 0.5rem;
+}
